@@ -1,0 +1,7 @@
+bin\Debug\ThapHaNoi.exe
+bin\Debug\ThapHaNoi.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ThapHaNoi.Properties.Resources.resources
+obj\Debug\ThapHaNoi.csproj.GenerateResource.Cache
+obj\Debug\ThapHaNoi.exe
+obj\Debug\ThapHaNoi.pdb

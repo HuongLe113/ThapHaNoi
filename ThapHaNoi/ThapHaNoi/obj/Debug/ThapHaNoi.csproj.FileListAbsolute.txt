@@ -1,0 +1,8 @@
+C:\Users\ACER\Downloads\ThapHaNoi\ThapHaNoi\bin\Debug\ThapHaNoi.exe
+C:\Users\ACER\Downloads\ThapHaNoi\ThapHaNoi\bin\Debug\ThapHaNoi.pdb
+C:\Users\ACER\Downloads\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.Properties.Resources.resources
+C:\Users\ACER\Downloads\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.exe
+C:\Users\ACER\Downloads\ThapHaNoi\ThapHaNoi\obj\Debug\ThapHaNoi.pdb
